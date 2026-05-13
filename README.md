@@ -33,7 +33,7 @@ Comprehensive healthcare analytics project analysing inpatient utilisation, read
 * SPSS
 * Excel
 * DBeaver
-* Git & Github
+* Git & GitHub
 * Healthcare KPI Analysis
 * Healthcare Business Intelligence
 * Data Storytelling & Executive Communication
